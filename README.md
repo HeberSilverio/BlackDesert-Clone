@@ -6,11 +6,10 @@
 
 
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/BlackDesert-Clone/main/SiteBootstrap.PNG"
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HeberSilverio/BlackDesert-Clone/main/SiteBootstrap.PNG">
+    <img src="https://raw.githubusercontent.com/HeberSilverio/BlackDesert-Clone/main/SiteBootstrap.PNG" alt="BlackDesert" style="max-width: 50%;">
+</a>
 
-    <img src="" alt="Netflix" style="max-width: 100%;">
-
-</a> </br>
 
 
 
